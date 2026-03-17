@@ -182,7 +182,7 @@ Jika ID yang dicari tidak ada dalam sistem, server akan mengembalikan pesan erro
 ---
 
 ## 8. Screenshot Tampilan Antarmuka Web
-![Antarmuka Web CRUD KTP](src/main/resources/static/screenshot.png)
-
+![Antarmuka Web CRUD KTP](<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/49f269ea-8b3f-4bd1-8b79-5639a7e7729d" />)
+![Antarmuka Web CRUD KTP](<img width="1919" height="553" alt="image" src="https://github.com/user-attachments/assets/da7b96eb-71d6-4fea-a1d0-66237eaf6551" />)
 ---
 *Dikerjakan oleh: Hikmatyar Alghifary - NIM: 20230140193*
